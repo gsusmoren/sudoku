@@ -11,7 +11,7 @@
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
-				<Option parameters="8 100 1000 0.9 0.1" />
+				<Option parameters="100 VERGA 0.8 0.124" />
 				<Compiler>
 					<Add option="-g" />
 					<Add directory="../galib247-c2014/galib247-c2014" />
